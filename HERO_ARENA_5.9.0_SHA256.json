@@ -1,0 +1,22 @@
+[
+  {
+    "file": "Hero_Arena_5.9.0_Solo_Update.zip",
+    "bytes": 667496,
+    "sha256": "76a3ca9d32fbac6ea359432ca6e02f39148ae34d5d65ec94543c79d1b1fdbb2d"
+  },
+  {
+    "file": "Hero_Arena_5.9.0_Online_Update.zip",
+    "bytes": 601165,
+    "sha256": "42c56bc9aaa83d3ef1eb175e6ecde9a49df0a1054d8dcaa426c621ab499d6fad"
+  },
+  {
+    "file": "Hero_Arena_5.9.0_Audit.zip",
+    "bytes": 977734,
+    "sha256": "4b56d11ac96654c5643795005b0c097b2508e591c44e029997aa6d4465e8e4d9"
+  },
+  {
+    "file": "Hero_Arena_5.9.0_Audit.zip",
+    "bytes": 978655,
+    "sha256": "a812026b5579e304c58eac46c860824853e1df2c12a6ebccdaa9ee6e60914892"
+  }
+]
